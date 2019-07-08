@@ -1,0 +1,35 @@
+01	12/03	0	apresentação da disciplina, transistor MOSFET como chave
+02	14/03	3	construir porta NOR usando transistores MOSFET
+02	19/03	3	construir porta NOR usando transistores MOSFET
+03	21/03	3	construir portas AND, OR e XOR usando portas NAND e NOR
+04	26/03	0	apresentação de FPGA para computação de alto desempenho
+05	02/04	3	construção de circuitos combinatorios em HDL
+06	04/04	1	aprender a usar o simulador animado
+07	09/04	2	decodificador para display de 7 segmentos
+08	16/04	3	somador e multiplicador em HDL
+09	23/04	1	conhecer IoT usando comandos AT
+10	25/04	1	programar um dispositivo IoT via conexão serial
+11	30/04	2	programar OTA
+11	02/05	2	programar OTA
+12	09/05	2	servidor HTTP dentro de um dispositivo IoT
+12	14/05	2	servidor HTTP dentro de um dispositivo IoT
+13	16/05	3	dispositivo IoT com sensor e servidor
+13	21/05	3	dispositivo IoT com sensor e servidor
+14	23/05	2	usando um flip-flop
+15	28/05	2	construir um oscilador e usar no flip-flop
+16	30/05	2	implementar um contador em FPGA
+17	04/06	5	cálculo do valor de pi segundo Leibniz em FPGA, todos os alunos com problemas de numeros mágicos e antolhos
+18	06/06	5	cálculo do valor de pi segundo Leibniz em FPGA, entendimento always_comb vs. always_ff, eliminar numeros mágicos, todos alunos ainda com antolhos
+19	11/06	5	analizar sinais do oscilador e flip-flop no osciloscópio
+19	13/06	5	analizar sinais do oscilador e flip-flop no osciloscópio
+20	18/06	12	cálculo do valor de pi segundo Leibniz em FPGA, mais rápido do que PC
+21	25/06	20	implementar uma máquina de estados
+22	27/06	3	compilaçao de C para código de máquina RISC-V
+23	01/07	4	implementar a instrução addi
+24	02/07	5	implementar as instruções lw e sw
+25	04/07	10	tirinhas
+01	02	02	03	04	05	06	07	08	09	10	11	11	12	12	13	13	14	15	16	17	18	19	19	20	21	22	23	24	25	faltas
+p	a	p	p	p	p	p	p	p	p	p	f	p	p	p	p	p	p	p	p	p	p	p	p	f	p	p	p	p	p	2
+extra	60
+01	02	03	04	05	06	07	08	09	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25
+0	10	0	0	8	10	10	10	10	10	10	4	10	10	10	10	5	7	9	0	4	10	10	10	10
